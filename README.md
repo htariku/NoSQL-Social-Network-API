@@ -1,13 +1,14 @@
 # NoSQL-Social-Network-API
 
 ## github repo:
-
+https://github.com/htariku/NoSQL-Social-Network-API
 
 
 ## url link: 
+ https://htariku.github.io/NoSQL-Social-Network-API/
 
-
-## Heroku Link 
+## recording link:
+https://www.youtube.com/watch?v=WYCjqbSWVFA
 
 
 
